@@ -1,2 +1,2 @@
 # new-git-basics
-Helli its my new and first Git repository
+Hello!Its my first Git repository
